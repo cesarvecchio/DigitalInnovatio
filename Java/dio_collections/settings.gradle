@@ -1,0 +1,3 @@
+rootProject.name = 'dio_collections'
+include 'collection-course'
+
